@@ -18,3 +18,13 @@ De la nave nos interesa averiguar:
 Y también hay hechos que le suceden a la nave
 * Cuando la nave choca, todos sus pasajeros saltan para salvarse y se van de la nave. 
 * Cuando la nave acelera, todos sus pasajeros, excepto el elegido, saltan de alegría y permanecen en la nave.	
+
+
+
+git status
+git . add
+git commit -m "holaUno"
+git user.name "ignacioperalta-arch"
+git user.emeail "miEmail@xd"
+git push origin master
+git push origin main
