@@ -24,7 +24,7 @@ Y también hay hechos que le suceden a la nave
 git status
 git . add
 git commit -m "holaUno"
-git user.name "ignacioperalta-arch"
-git user.emeail "miEmail@xd"
+git config user.name "ignacioperalta-arch"
+git config user.emeail "miEmail@xd"
 git push origin master
 git push origin main
