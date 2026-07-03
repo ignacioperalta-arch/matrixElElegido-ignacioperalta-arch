@@ -28,3 +28,16 @@ git config user.name "ignacioperalta-arch"
 git config user.emeail "miEmail@xd"
 git push origin master
 git push origin main
+
+
+
+git clone URL
+git add .
+git status
+git commit -m "prueba"
+git config user.name "ignacioperalta-arch"
+git config user.email "miEmail@xd"
+git commit -m "otraPrueba"
+git status
+git push origin main
+git push origin master
